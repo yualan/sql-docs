@@ -15,6 +15,7 @@ ms.author: "alayu"
 
 This article describes how to launch the Notebook experience in Azure Data Studio and how to start authoring your own notebooks. It also shows how to write Notebooks using different kernels.
 
+>Note: If you are on a Mac and get the error: "Failed to change kernels," please open terminal and run **brew install openssl.** This will fix the issue. 
 
 ## Connect to SQL Server
 
